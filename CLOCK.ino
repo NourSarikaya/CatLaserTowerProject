@@ -1,7 +1,6 @@
 // Using an example file modified by Madrajib for a 4 coomon anode 7 segment display.....
 #include <TimeLib.h>
 #include "LedControl.h"
-// Clock LED by Elisabeth Tricou
 
 
 //Clock pins
